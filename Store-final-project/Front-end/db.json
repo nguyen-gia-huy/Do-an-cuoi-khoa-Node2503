@@ -1,0 +1,35 @@
+{
+  "user": [
+    {
+      "id": "",
+      "name": "",
+      "role": "",
+      "phoneNumber": "",
+      "email": "",
+      "password": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "province": ""
+      },
+      "role":""
+      
+
+    }
+  ],
+  "product": [
+    {
+      "id": "",
+      "productName": ""
+    }
+  ],
+  "order_history": [
+      {
+        "order_id": "ORD789",
+        "date": "2025-06-13",
+        "total_amount": 1500000,
+        "status": "Đã giao"
+      }
+    ]
+
+}

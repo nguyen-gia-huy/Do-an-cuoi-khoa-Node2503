@@ -8,7 +8,7 @@ const DefaultLayout = () => {
     <div>
       <Header />
       <div className="body-page">
-        <Outlet /> {/* This will render the matched child route */}
+        <Outlet />
       </div>
       <Footer/>
     </div>

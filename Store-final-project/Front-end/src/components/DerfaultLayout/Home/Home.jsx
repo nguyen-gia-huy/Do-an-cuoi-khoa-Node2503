@@ -1,10 +1,10 @@
 import React from "react";
-import AllProducts from "../../../pages/AllProducts";
-import Contact from "../../Contact";
-import About from "../../About";
-import Products from "../../Products";
-import Features from "../../Features";
-import Hero from "../../Hero";
+import AllProducts from "../../../pages/AllProducts/AllProducts";
+import Contact from "./Contact";
+import About from "./About";
+import Products from "./Products";
+import Features from "./Features";
+import Hero from "./Hero";
 
 const Home = () => {
   return (
@@ -13,7 +13,7 @@ const Home = () => {
       <Features />
       <Products />
       <About />
-      <Contact /> 
+      <Contact />
     </div>
   );
 };
